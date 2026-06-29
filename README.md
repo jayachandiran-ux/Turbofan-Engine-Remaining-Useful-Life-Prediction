@@ -64,7 +64,17 @@ The dataset contains:
 The model successfully predicts the Remaining Useful Life (RUL) of turbofan engines and compares the predicted values with the actual RUL values.
 
 ---
+## 📷 Results
 
+### Actual vs Predicted Remaining Useful Life
+
+![Actual vs Predicted](actual_vs_predicted.png)
+
+### Feature Importance
+
+![Feature Importance](feature_importance.png)
+
+---
 ## 🚀 Project Workflow
 
 1. Data Loading
